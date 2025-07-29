@@ -27,7 +27,7 @@ A clean, responsive calculator built with vanilla JavaScript, HTML5, and CSS3.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/azerjlhj/calculator-app.git
 cd calculator-app
 open index.html
 ```
